@@ -3,3 +3,13 @@ This is a PR template. If you are adding a solution link to the curriculum, leav
 Thank you,
 
 The Odin Project team.
+
+
+Hi
+
+https://github.com/BladeMountain/SissorPaperRock
+Sissors paper rock.
+this needs debugging but I am unsure of what needs to be changed. Would like some help. 
+
+Thank you
+Aatthi
